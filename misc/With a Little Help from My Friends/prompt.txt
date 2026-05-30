@@ -1,0 +1,19 @@
+----------------
+NOTE
+
+This challenge was the final challenge in Code & Feast Spring 2026, every attendee was given a piece of paper with a number and character written on it:
+
+6-o
+10-n
+14-a
+
+Arranging these papers in order would spell out:
+ctf{CodeAndFeast2026!}
+
+----------------
+
+Code & Feast would not have been possible without the contributions of the officers of the Cybersecurity Club, OMEGA Club, Women in Cybersecurity, the Computer Science and Cybersecurity professors, Student Involvement, Dining Services, and everyone who helped out with setting things up.
+
+And you, for showing up, helping your peers, and bringing Code & Feast to life. For those who are graduating, transferring, or otherwise moving on to the next stage of your lives, I wish you the best of luck. And for those who will return next semester, I hope to see you again for Code & Feast Fall 2026!
+
+Made by Alex

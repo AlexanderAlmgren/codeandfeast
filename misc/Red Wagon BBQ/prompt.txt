@@ -1,0 +1,7 @@
+Hello friend, what I'm about to tell you is top secret. There's a powerful group of poeple out there who are secretly running the world, and now I think they're following me...
+
+Somone slipped something under my door last night, it looks like a restaurant menu but it has strange writing, I think it must be some sort of code. Are they trying to warn me about something... or someone?
+
+Note: The ctf{} format is not required for submission, submit the hidden message as is
+
+Made by Alex

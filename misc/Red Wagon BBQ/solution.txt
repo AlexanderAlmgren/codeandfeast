@@ -1,0 +1,26 @@
+The sticky note says "Cut down the Erdos Woods! Find the truth"
+
+Doing some research you can find the Erdős–Woods numbers (https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Woods_number)
+
+The first few Erdős–Woods numbers are as follows:
+16, 22, 34, 36, 46, 56, 64, 66, 70, 76, 78, 86, 88, 92, 94, 96, 100, 106, 112, 116
+
+If you "cut down" (remove) the menu items that have Erdős–Woods numbers written next to them, you are left with
+Smoked turkey $23
+Brisket Burnt Ends $?5
+Smoked Cicken $12
+Smashed Friends $12
+Onion Rings $?9
+Jalepeno Poppers $?3
+Brioche Buns $11
+
+(? represents numbers that are scratched out)
+
+Take the price of each item, ignore digits that are scratched out:
+23 5 12 12 9 3 11
+
+Each numbers represents a letter alphabetically (A=1, B=2...) converting it gives us
+
+WELLICK
+
+

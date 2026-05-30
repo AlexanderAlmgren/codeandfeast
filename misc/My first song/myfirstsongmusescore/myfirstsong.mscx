@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="4.60">
+  <programVersion>4.6.5</programVersion>
+  <programRevision>653f38d</programRevision>
+  <Score>
+    <eid>tTs/rbDXNVM_Dh05LRQPNyP</eid>
+    <Division>480</Division>
+    <showInvisible>1</showInvisible>
+    <showUnprintable>1</showUnprintable>
+    <showFrames>1</showFrames>
+    <showMargins>0</showMargins>
+    <open>1</open>
+    <metaTag name="arranger"></metaTag>
+    <metaTag name="composer">Composer / arranger</metaTag>
+    <metaTag name="copyright"></metaTag>
+    <metaTag name="creationDate">2026-04-13</metaTag>
+    <metaTag name="lyricist"></metaTag>
+    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="platform">Linux</metaTag>
+    <metaTag name="source"></metaTag>
+    <metaTag name="subtitle">Subtitle</metaTag>
+    <metaTag name="translator"></metaTag>
+    <metaTag name="workNumber"></metaTag>
+    <metaTag name="workTitle">Untitled score</metaTag>
+    <Order id="orchestra">
+      <name>Orchestra</name>
+      <instrument id="alto-saxophone">
+        <family id="saxophones">Saxophones</family>
+        </instrument>
+      <section id="woodwind" brackets="true" barLineSpan="true" thinBrackets="true">
+        <family>flutes</family>
+        <family>oboes</family>
+        <family>clarinets</family>
+        <family>saxophones</family>
+        <family>bassoons</family>
+        <unsorted group="woodwinds"/>
+        </section>
+      <section id="brass" brackets="true" barLineSpan="true" thinBrackets="true">
+        <family>horns</family>
+        <family>trumpets</family>
+        <family>cornets</family>
+        <family>flugelhorns</family>
+        <family>trombones</family>
+        <family>tubas</family>
+        <unsorted group="brass"/>
+        </section>
+      <section id="timpani" brackets="true" barLineSpan="true" thinBrackets="true">
+        <family>timpani</family>
+        </section>
+      <section id="percussion" brackets="true" barLineSpan="true" thinBrackets="true">
+        <family>keyboard-percussion</family>
+        <unsorted group="pitched-percussion"/>
+        <family>drums</family>
+        <family>unpitched-metal-percussion</family>
+        <family>unpitched-wooden-percussion</family>
+        <family>other-percussion</family>
+        <unsorted group="unpitched-percussion"/>
+        </section>
+      <family>keyboards</family>
+      <family>harps</family>
+      <family>organs</family>
+      <family>synths</family>
+      <unsorted/>
+      <soloists/>
+      <section id="voices" brackets="true" barLineSpan="false" thinBrackets="true">
+        <family>voices</family>
+        <family>voice-groups</family>
+        </section>
+      <section id="strings" brackets="true" barLineSpan="true" thinBrackets="true">
+        <family>orchestral-strings</family>
+        </section>
+      </Order>
+    <Part id="1">
+      <Staff>
+        <eid>qA0JJxHd/gD_wbYi6I3rK/</eid>
+        <StaffType group="pitched">
+          <name>stdNormal</name>
+          </StaffType>
+        </Staff>
+      <trackName>Alto Saxophone</trackName>
+      <Instrument id="alto-saxophone">
+        <longName>Alto Saxophone</longName>
+        <shortName>A. Sax.</shortName>
+        <trackName>Alto Saxophone</trackName>
+        <minPitchP>49</minPitchP>
+        <maxPitchP>92</maxPitchP>
+        <minPitchA>49</minPitchA>
+        <maxPitchA>80</maxPitchA>
+        <transposeDiatonic>-5</transposeDiatonic>
+        <transposeChromatic>-9</transposeChromatic>
+        <instrumentId>wind.reed.saxophone.alto</instrumentId>
+        <Channel>
+          <program value="65"/>
+          <synti>Fluid</synti>
+          </Channel>
+        </Instrument>
+      </Part>
+    <Staff id="1">
+      <VBox>
+        <height>10</height>
+        <eid>+J7ZH8zWjsN_Z2yqfbgCI8B</eid>
+        <Text>
+          <eid>tKZLSf5b+NJ_ON5FkLY8ZgB</eid>
+          <style>title</style>
+          <offset x="-0.956889" y="14.3533"/>
+          <text>My First Song</text>
+          </Text>
+        <Text>
+          <eid>0iJe7jKf7WO_XQXIWi8tExH</eid>
+          <style>subtitle</style>
+          <offset x="-0.637926" y="21.0042"/>
+          <text>For Alto Saxophone</text>
+          </Text>
+        </VBox>
+      <Measure>
+        <eid>VpFosK0SqcI_WsFpXsx/IkB</eid>
+        <voice>
+          <KeySig>
+            <eid>g5I8Cr7SlZN_vBzVN43C+1E</eid>
+            <concertKey>-3</concertKey>
+            <actualKey>0</actualKey>
+            </KeySig>
+          <TimeSig>
+            <eid>Ck7viSXYsSL_cx007ZHJ1WM</eid>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
+          <Chord>
+            <eid>rPw/H3mPVSJ_cgu0czH0raF</eid>
+            <durationType>quarter</durationType>
+            <Note>
+              <eid>9Zkd2De+nMO_Ai/CYOCHKeG</eid>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>17</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>f3cYvKEbMqN_KmhujGlP10H</eid>
+            <durationType>quarter</durationType>
+            <Note>
+              <eid>/zSL89GoV/_wYe3d199OrB</eid>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                <eid>oJxocXwzr3M_D1ePLrxqHAJ</eid>
+                </Accidental>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>E8gV9aug+HF_YbwaHNNBJdP</eid>
+            <durationType>quarter</durationType>
+            <Note>
+              <eid>p4+77w2CeS_64N/NYVfTMP</eid>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                <eid>bPUL5oSTv1F_F5d5dcN9gWP</eid>
+                </Accidental>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <tpc2>22</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>Bbq3SIbJrwB_Ura1krN3I4K</eid>
+            <durationType>quarter</durationType>
+            <Note>
+              <eid>FYfIYl+U/JP_Y0i5fhwLMZG</eid>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                <eid>9+SCxJSu5+K_ZSTDV8WCGIF</eid>
+                </Accidental>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              <tpc2>22</tpc2>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <eid>J0uMaFebeR_FLBomy188zN</eid>
+        <voice>
+          <Chord>
+            <eid>NCGVOqzD0oD_Vss8XmaBnAO</eid>
+            <durationType>quarter</durationType>
+            <Note>
+              <eid>f8jdu+kGlMK_PMEXqzPZDQD</eid>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                <eid>KO0RBW+ip9D_YLnW/x1hPgN</eid>
+                </Accidental>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>20</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>5OiU5mxLb+E_2vWKC9TVYrO</eid>
+            <durationType>quarter</durationType>
+            <Note>
+              <eid>KomMhMNdI4H_PntRVFRTtEB</eid>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>18</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>VTl9EqIMocP_149m/PlNvCM</eid>
+            <durationType>half</durationType>
+            <Note>
+              <eid>/ed2jgn+YyE_uGV4eKBk4lK</eid>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                <eid>1tHy3FAhMiP_0en5sJv+1BG</eid>
+                </Accidental>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <tpc2>21</tpc2>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      </Staff>
+    </Score>
+  </museScore>

@@ -1,0 +1,5 @@
+Each folder has a number as its name, this number represents an ASCII character. Using the 'tree' command you can see the layout clearly. Python code is provided that prints in a tree-like format with the ascii characters.
+
+The flag format for this ctf is ctf{FLAGGOESHERE}, so the correct path must begin with 'ctf{' and end with '}'. Only one path has this:
+
+ctf{findthepath}

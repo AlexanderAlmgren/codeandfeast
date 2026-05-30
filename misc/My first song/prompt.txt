@@ -1,0 +1,7 @@
+I gave up my dreams of becomming a hacker to pursue a career in music, and spent the last of my savings on the greatest instrument of all time... the alto saxophone!
+
+I've also hidden a secret message inside the melody, it's a reference to my favourite thing in the whole world!
+
+Note: The ctf{} format is not required for submission, submit the hidden message as is
+
+Made by Alex

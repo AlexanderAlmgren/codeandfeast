@@ -1,0 +1,7 @@
+The file is not empty, it contains space and tabs. 
+
+Converting each space into a 0, and each tab into 1 gives us: 
+011000110111010001100110011110110111010001100001011000100111001101100001011011100110010001110011011100000110000101100011011001010111001101111101
+
+Converting to ascii gives us:
+ctf{tabsandspaces}

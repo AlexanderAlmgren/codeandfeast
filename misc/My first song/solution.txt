@@ -1,0 +1,12 @@
+Sheet music is provided, the note name for each note is:
+
+A F# G# G# F# E C#
+
+The song is written for Alto saxophone, which is a transposing instrument (Eb). To find the actual pitch transpose all notes down a minor 6th, or up a minor 3rd
+
+A F# G# G# F# E C#
+|
+V
+CABBAGE
+
+
