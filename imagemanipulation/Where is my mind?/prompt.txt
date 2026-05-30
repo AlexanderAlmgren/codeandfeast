@@ -1,0 +1,8 @@
+"Out of all the things I have lost, I miss my mind the most.” 
+
+Luckily for me, you might be able to find it. I don't know which one it is exactly, but I remember the hash was 402931.
+
+Note:
+The reccomended way of solving this is using Python with the Pillow Library.
+
+Made by Alex

@@ -1,0 +1,5 @@
+Did you know that any Rubik's cube scramble can be solved in 20 moves or less? Anyways, this one is about recursion.
+
+Note: The reccomended way of solving this is using Python with the Pillow Library.
+
+Made by Alex

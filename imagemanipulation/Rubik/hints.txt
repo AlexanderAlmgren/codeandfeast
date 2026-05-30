@@ -1,0 +1,6 @@
+The Scramble Algorithm:
+Take the entire image and divide it into a 3x3 grid of squares.
+
+Rotate each square 90° clockwise around the center. The content of each square does not rotate. Like a Rubik's cube, edges stay as edges and corners stay as corners.
+
+This algorithm is repeated for each square. And then each sub-square.

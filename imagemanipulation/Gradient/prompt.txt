@@ -1,0 +1,9 @@
+My gradient is all out of order! Can you sort it out for me?
+
+Notes:
+
+For extra challenge, try impleneting the sorting algorithm yourself instead of using a built-in one!
+
+Note: The reccomended way of solving this is using Python with the Pillow Library.
+
+Made by Alex

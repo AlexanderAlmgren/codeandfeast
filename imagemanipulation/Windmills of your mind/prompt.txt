@@ -1,0 +1,5 @@
+"Round like a circle in a spiral, like a wheel within a wheel Never ending or beginning on an ever-spinning reel..."
+
+Note: The reccomended way of solving this is using Python with the Pillow library.
+
+Made by Alex

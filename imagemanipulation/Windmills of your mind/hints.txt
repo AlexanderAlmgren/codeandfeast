@@ -1,0 +1,2 @@
+Rotation
+The image re-aligns itself every 8th circle, what does this tell us about the rotation of each circle?

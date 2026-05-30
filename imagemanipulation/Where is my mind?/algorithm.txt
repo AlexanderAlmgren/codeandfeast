@@ -1,0 +1,28 @@
+Each image contains only the following colors:
+
+White  (0, 0, 0)
+Red    (255, 0, 0) 
+Green  (0, 255, 0) 
+Blue   (0, 0, 255) 
+Yellow (255, 255, 0) 
+Cyan   (0, 255, 255)
+
+The hash is a 6-digit number,
+
+Take the sum of:
+    Amount of red pixels * 2
+    Amount of green pixels * 3
+    Amount of blue pixels * 5
+    Amount of yellow pixels * 7
+    Amount of cyan pixels * 11
+And set it the inital hash value.
+
+Calculate which colors have prime amounts of pixels (Including white):
+    If 0 colors have prime pixel counts, add the amount of red pixels to the hash
+    If 1 color has prime pixel counts, add the amount of green pixels to the hash
+    If 2 colors have prime pixel counts, add the amount of blue pixels to the hash
+    If 3 or more colors have prime pixel counts, add the difference between the amount of yellow and cyan pixels to the hash.
+
+Take the bitwise AND operation of the amount of red and green pixels, and add it to the hash
+Take the bitwise OR operation of the maount of green and blue pixels, and add it to the hash
+Take the bitwise XOR operation of the amount of yellow and cyan pixels, and subtract it from the hash
