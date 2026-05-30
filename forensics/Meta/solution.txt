@@ -1,0 +1,2 @@
+The flag is hidden in the metadata of the given image, specifically user_comment
+ctf{checkthemetadata}
