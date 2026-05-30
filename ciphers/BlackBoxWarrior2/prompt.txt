@@ -1,0 +1,11 @@
+This challenge is a continuation of the first BlackBoxWarrior challenge. It is highly reccomended that you solve it before attempting this one! This one is significantly harder!
+
+When the flag is used as input, the output might be:
+
+    ?>30<860B9=2>2:+?/C1>>'=%EJ.
+
+Technically the flag wasn't the only input, however with what you know about flag formats, you should still be able to solve it with the missing information.
+
+Note: This is not an exploitation challenge, please don't try to break my code
+
+Made by Alex

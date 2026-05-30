@@ -1,0 +1,13 @@
+In computing, a black box refers to a system where inputs and outputs can be observed, but the inner workings are unknown.
+
+This challenge involves an unknown cipher algorithm that you will have to reverse engineer, examine each output and try to figure out how it works.
+
+When the flag is used as input, the output will be:
+
+    cuh~vj|lz|oo
+
+NOTE: There is an issue with the flag, it will be missing the closing } character. 
+
+Note: This is not an exploitation challenge, please don't try to break my code
+
+Made by Alex

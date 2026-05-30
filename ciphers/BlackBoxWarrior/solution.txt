@@ -1,0 +1,7 @@
+Each character has its ASCII value incremented by the current index. Knowing this you can reverse the output manually or through code by decrementing by the current index. Doing this will get you:
+
+ctf{reversed
+
+There was a mistake I made in my code that causes the last } character to be missing, the actual flag is:
+
+ctf{reversed}

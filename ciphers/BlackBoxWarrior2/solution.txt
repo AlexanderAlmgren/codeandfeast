@@ -1,0 +1,10 @@
+The input is first rotated right by the current minute:
+
+cats (3:03 PM) -> atsc
+rotation (8:42 AM) -> onrotati
+
+Then every character in the string is split into two characters, where the ascii values of both sum to the original character. The way it is split is based on the index, however because the sum is the same no matter what, it doesn't matter for solving.
+
+So to derive the original string, sum each two character pair and then rotate. The time of encoding is not given, however given the flag format it is possible to find the flag:
+
+ctf{openthebox}

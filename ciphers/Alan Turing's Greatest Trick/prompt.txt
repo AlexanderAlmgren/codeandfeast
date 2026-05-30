@@ -1,0 +1,13 @@
+
+
+This one is quite the Enigma, isn't it? Even still, one must watch for the sharks in the water.
+
+Positioning: M4, B Thin, Gamma 17 24, VII 9 13, VIII 12 1, II 26 23
+
+Plugboard: bq cr di ej kw mt os px uz gh
+
+Code: yomb qhgi wmbh qglx xjvu hjkf tugh utrz npur vdof cmaf ouvh eg
+
+The flag will not have spaces :)
+
+Made by Odhran

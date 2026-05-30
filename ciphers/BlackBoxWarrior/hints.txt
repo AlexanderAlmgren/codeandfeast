@@ -1,0 +1,2 @@
+ASCII:
+With ASCII encoding, each character is representing with a number between 0 and 127. Check out the ASCII table: https://www.asciitable.com/
