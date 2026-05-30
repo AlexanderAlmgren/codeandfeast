@@ -1,6 +1,6 @@
 # About
 
-This repository contains CTF challenges created for the Code & Feast Spring 2026 event, hosted at Westchester Community College. All challenges created by myself and [NorthernTierex](https://github.com/NorthernTierex). Solutions are provided.
+This repository contains CTF challenges created for the Code & Feast Spring 2026 event, hosted at Westchester Community College. All challenges created by myself and [Odhran](https://github.com/NorthernTierex). Solutions are provided.
 
 This repository contains:
 - 4 Cipher challenges
