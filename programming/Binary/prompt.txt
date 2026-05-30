@@ -1,0 +1,21 @@
+This challenge will require you to write two functions:
+
+binarytodecimal() will take an 8 character string that represents an 8-bit unsigned binary value (1 byte), and output an integer from 0-255
+
+    '00000010' -> 2
+
+    '01011011' -> 91
+
+    '10010011' -> 147
+
+decimaltobinary() will take an integer from 0-255, and output an 8 character string that represents an 8-bit unsigned binary value (1byte)
+
+    39 -> '00100111'
+
+    81 -> '01010001'
+
+    255 -> '11111111'
+
+Starter code has been provided. You can assume all inputs are valid.
+
+Made by Alex

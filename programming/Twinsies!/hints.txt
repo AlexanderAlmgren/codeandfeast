@@ -1,0 +1,14 @@
+Prime calculation:
+It's an interesting fact that all possible primes greater than 3 - and thus, all relevant primes here - are of the format 6k±1. Or, in simple terms, you will only need to check for the factors of numbers that are one less or one more than a multiple of six; any other number cannot possibly be prime.
+
+It may also help to recognize that when checking for factors, one must only check up to the square root of the original number, as after that, any possible number would have had its factored pair already checked going up to the square root.
+
+For Loops & Else Finishers
+It may help to note that in Python, for loops can have an else conditional attached, that will only ever activate if the for loop fully executes without any break commands. As so:
+
+> for -----:
+	> -----
+	> break 
+> else: 
+	> -----
+

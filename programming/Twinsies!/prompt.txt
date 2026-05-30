@@ -1,0 +1,7 @@
+Twin primes are a pair of prime numbers that are exactly two apart - for example, 3 and 5, or 5 and 7. In this challenge, you will split a string of numbers into all the two digit numbers it contains, before finding the number of twin primes in that list of two digit numbers.
+
+For example, the string 4143 can be split into 41, 14, and 43, containing one pair of twin primes, {41, 43}, thus returning 1. A string with more than one copy of a number will count the pairings of each copy seperately - the string 414343 is counted as containing two pairs of twin primes, both {41, 43}; this is equally true for the string 414143. Note that pairs that would result in single-digit integers (those beginning in 0, such as 05 or 07) must be explicitly excluded!
+
+Your jobs are to program the function "primes" to return a list of all of the prime numbers in the original string, and the function "twinprimes" to return an integer count of the pairs of twin primes in the prime list. You've been given the code to parse the input string to start you off. Good luck!
+
+Made by Odhran

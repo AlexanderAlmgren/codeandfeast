@@ -1,0 +1,17 @@
+Write a function to calculate how far a projectile will travel horizontally before hitting the ground. You are given the following information:
+
+Initial height off the ground (Meters)
+
+Initial velocity (Meters per seconds)
+
+Launch angle (Radians)
+
+Gravity is 9.81 m/s², air reistance should be ignored.
+
+You can use https://www.omnicalculator.com/physics/projectile-motion to verify your solution.
+
+Starter code has been provided. You can assume all inputs are valid.
+
+Note: If you have taken Engineering Physics 1, you will likely recognize this type of problem. If you are not familiar with this problem, try to find someone who can help you. Also check out the SUVAT formulas.
+
+Made by Alex
